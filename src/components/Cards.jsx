@@ -11,7 +11,7 @@ function Cards() {
           <ul className='cards__items'>
             <CardItem
               src='images/img-9.jpg'
-              text='Explore the hidden waterfall deep inside the Amazon Jungle'
+              text='Explore the hidden technology deep inside the Amazon EWS CLOUD'
               label='React'
               path='/services'
             />
