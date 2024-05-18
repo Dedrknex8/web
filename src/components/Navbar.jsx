@@ -32,7 +32,7 @@ function Navbar() {
           <img
               className='ad-log'
               alt='Aditya'
-              src='../../public/images/aditlogo.jpg'
+              src='images/aditlogo.jpg'
             />
             <i className='fab fa-typo3' />
           </Link>
