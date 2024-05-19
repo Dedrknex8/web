@@ -25,6 +25,10 @@
   color: #fff;
   font-size: 100px;
   height: 100vh;
+  
+}
+.services p{
+  color: white;
 }
 
 .products {
