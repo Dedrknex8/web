@@ -24,7 +24,7 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/dev2.webpg'
+              src='images/web.jpg'
               text='Set Sail in the knowlede Ocean visiting Uncharted Waters'
               label='logo'
               path='/services'
