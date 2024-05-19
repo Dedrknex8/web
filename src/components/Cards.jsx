@@ -10,22 +10,22 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-9.jpg'
+              src='images/dev1.jpg'
               text='Explore the hidden technology deep inside the Amazon EWS CLOUD'
               label='React'
               path='/services'
             />
             <CardItem
-              src='images/img-2.jpg'
-              text='Travel through the Islands of Bali in a Private Cruise'
+              src='images/deed1.jpg'
+              text='Travel through the heap of technolgy in telent glimpse'
               label='JavaScript'
               path='/services'
             />
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/aditlogo.jpg'
-              text='Set Sail in the Atlantic Ocean visiting Uncharted Waters'
+              src='images/dev2.webpg'
+              text='Set Sail in the knowlede Ocean visiting Uncharted Waters'
               label='logo'
               path='/services'
             />
